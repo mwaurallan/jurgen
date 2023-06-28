@@ -33,22 +33,22 @@
 				@if(!empty($receipt_details->display_name))
 					<span>
 {{--						{{$receipt_details->display_name}}--}}
-						Quality Classic And Elegance
+						Quality Products and Best Prices!!!
 					</span>
 					<br/>
 				@endif
 						@if(!empty($receipt_details->display_name))
 							<span>
 {{--						{{$receipt_details->display_name}}--}}
-						Platinum Plaza,Ground Floor Shop No G14
+						Bumala Town,Along Kisumu-Busia RD
 					</span>
 							<br/>
 				@endif
 						@if(!empty($receipt_details->display_name))
 							<span>
 {{--						{{$receipt_details->display_name}}--}}
-						Tel:+254 712389915/+254 724 475495 <br/>
-								Email:oristuemallkenyaltd@gmail.com
+						Tel:+254 707798110/+254 701204655 <br/>
+								Email:jurgenltd@gmail.com
 					</span>
 							<br/>
 				@endif
@@ -513,7 +513,7 @@
 					{{--					{!! $receipt_details->footer_text !!}--}}
 
 {{--					Mpesa Paybill:247247 -A/C ---}}
-					     Paybill Number 247247 A/No.0712389915
+					     Paybill Number 522533 A/No.7534957
 
 					<p><h5>Thanks for Shopping with us.!!!!</h5></p>
 {{--					<p><h5>When you Think Of Buggers Think Scoops</h5></p>--}}
